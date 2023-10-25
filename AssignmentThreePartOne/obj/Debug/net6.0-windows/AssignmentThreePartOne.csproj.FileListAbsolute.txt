@@ -1,0 +1,17 @@
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\bin\Debug\net6.0-windows\AssignmentThreePartOne.exe
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\bin\Debug\net6.0-windows\AssignmentThreePartOne.deps.json
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\bin\Debug\net6.0-windows\AssignmentThreePartOne.runtimeconfig.json
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\bin\Debug\net6.0-windows\AssignmentThreePartOne.dll
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\bin\Debug\net6.0-windows\AssignmentThreePartOne.pdb
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.csproj.AssemblyReference.cache
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.MainForm.resources
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.csproj.GenerateResource.cache
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.AssemblyInfoInputs.cache
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.AssemblyInfo.cs
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.csproj.CoreCompileInputs.cache
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.dll
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\refint\AssignmentThreePartOne.dll
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.pdb
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\AssignmentThreePartOne.genruntimeconfig.cache
+D:\Malmö University\03. Module 3 Windows Forms, GUI, Enum and Methods\Assignment\PartOne\AssignmentThreePartOne\AssignmentThreePartOne\obj\Debug\net6.0-windows\ref\AssignmentThreePartOne.dll
