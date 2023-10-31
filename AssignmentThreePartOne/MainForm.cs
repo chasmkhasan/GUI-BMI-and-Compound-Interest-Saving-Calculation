@@ -46,27 +46,29 @@ namespace AssignmentThreePartOne
 
         private bool ReadInputBMI()
         {
-            ReadName();
+			ReadUnit();
             bool heightOK = ReadHeight();
             bool weightOK = ReadWeight();
-            ReadUnit();
+			ReadName();
 
-            return heightOK && weightOK;
+			return heightOK && weightOK;
         }
 
-        private void ReadUnit()
+		private void ReadName()
+		{
+			name = txtName.Text;
+			name = name.Trim();
+			grpResult.Text = name;
+		}
+
+		private void ReadUnit()
         {
             if (rbtnMetricKGCM.Checked)
                 bmiCalc.SetUnit(UnitType.Metric);
             else
                 bmiCalc.SetUnit(UnitType.Imperial);
         }
-        private void ReadName()
-        {
-            name = txtName.Text;
-            name = name.Trim();
-            grpResult.Text = name;
-        }
+        
         private bool ReadHeight()
         {
             double height = 0.0;
