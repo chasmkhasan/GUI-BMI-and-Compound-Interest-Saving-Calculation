@@ -8,6 +8,13 @@ namespace AssignmentThreePartOne
 {
     internal class SavingCalculator
     {
+        /// <summary>
+        /// Global variable has decleare
+        /// Need to decleare getter and setter so we can call those method in GUI.
+        /// we will call all calculation and decleare as an object in main form.
+        /// Since we have decleare global varibale and that varibale has call to setter. Data has been store in the variable.
+        /// Those global variable data can be read everywhere.
+        /// </summary>
         //Variable for getter and setter
         private double deposit;
         private double period;
@@ -55,8 +62,9 @@ namespace AssignmentThreePartOne
         //Calculation of total deposit and interest with compound interest rate.
         public double FinalBalanceCalculation()
         {
+            //calculating total months when we put year.
             double totalMonths = period * 12;
-
+            
             for (int month = 1; month <= totalMonths; month++)
             {
                 double interestEarned = interestRate * balance;

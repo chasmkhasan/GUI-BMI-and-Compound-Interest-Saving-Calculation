@@ -8,9 +8,13 @@ namespace AssignmentThreePartOne
 {
     internal class BMICalculator
     {
+        /// <summary>
+        /// Decleare Global varibale so we can call those variable into all method in this class.
+        /// </summary>
         private double height;
         private double weight;
 
+        //Date type has been decleare into the class. Click on defination.
         private UnitType unit;
 
         public BMICalculator()
@@ -24,6 +28,8 @@ namespace AssignmentThreePartOne
         }
         public void SetHeight(double height)
         {
+            //if statement has taken for ignore negative value. Human being cant have negative value.
+            //this.height has taken variable and height has read from parameters
             if(height >= 0.0)
             this.height = height;
         }
